@@ -19,7 +19,7 @@
 ---
 
 ##  Project Overview
-A UI/UX project that aims to help all diabetes patients across the world to reclaik their lives and set free from the chains holding them back from enjoying food by organizing and recommending their meals and keeping track of their hydration level,insulin level and activity,by analysing the UX of diabetes patients ,collecting data and creating screens of the final app
+A UI/UX project that aims to help all diabetes patients across the world to reclaim their lives and set free from the chains holding them back from enjoying food by organizing and recommending their meals and keeping track of their hydration level,insulin level and activity,by analysing the UX of diabetes patients ,collecting data and creating screens of the final app
 
 ---
 
